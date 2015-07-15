@@ -1,0 +1,26 @@
+{
+	// Personal preferences
+	"boss": true,
+	"smarttabs": true,
+	"bitwise": false,
+	"indent": 4,
+	"undef" : true,
+	"unused" : true,
+	"quotmark": "double",
+	"camelcase": false,
+	"maxparams": 3,
+
+	// Debug mode
+	"devel": true,
+
+	//ES5 mode
+	"strict" : true,
+
+	// Globals
+	"browser": true,
+	"jquery": true,
+	"node": true,
+	"predef": [  // Custom globals.
+		//"MYAPP"
+	]
+}
