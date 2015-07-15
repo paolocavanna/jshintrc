@@ -1,0 +1,2 @@
+# jshintrc
+Store jshint preferences
